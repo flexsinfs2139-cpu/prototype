@@ -45,6 +45,18 @@ Clone the repo and open it as a vault in Obsidian for the best experience (inter
 git clone https://github.com/flexsinfs2139-cpu/prototype.git
 ```
 
+```python
+python -m venv .venv
+```
+
+```powershell
+.\.venv\Scripts\activate
+```
+
+```python
+python -m pip freeze > requirements.txt
+```
+
 ---
 
 ## 📄 License
