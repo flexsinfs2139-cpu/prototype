@@ -1,9 +1,9 @@
 # 📝 Prototype
 
-![License](https://img.shields.io/github/license/flexsinfs2139-cpu/FS2139)
-![Last Commit](https://img.shields.io/github/last-commit/flexsinfs2139-cpu/FS2139)
-![Repo Size](https://img.shields.io/github/repo-size/flexsinfs2139-cpu/FS2139)
-![Stars](https://img.shields.io/github/stars/flexsinfs2139-cpu/FS2139?style=social)
+![License](https://img.shields.io/github/license/flexsinfs2139-cpu/prototype)
+![Last Commit](https://img.shields.io/github/last-commit/flexsinfs2139-cpu/prototype)
+![Repo Size](https://img.shields.io/github/repo-size/flexsinfs2139-cpu/prototype)
+![Stars](https://img.shields.io/github/stars/flexsinfs2139-cpu/prototype?style=social)
 
 > A personal engineering playground for exploring, testing, and validating software engineering concepts across backend and mobile development.
 ---
