@@ -1,18 +1,17 @@
-# 📝 FS2139
+# 📝 Prototype
 
 ![License](https://img.shields.io/github/license/flexsinfs2139-cpu/FS2139)
 ![Last Commit](https://img.shields.io/github/last-commit/flexsinfs2139-cpu/FS2139)
 ![Repo Size](https://img.shields.io/github/repo-size/flexsinfs2139-cpu/FS2139)
 ![Stars](https://img.shields.io/github/stars/flexsinfs2139-cpu/FS2139?style=social)
 
-> A personal notes vault of frequently-used commands and quick how-tos for Android (ADB), Flutter, and Windows PowerShell/system setup.
-
+> A personal engineering playground for exploring, testing, and validating software engineering concepts across backend and mobile development.
 ---
 
 ## 📑 Table of Contents
 
 - [Overview](#-overview)
-- [Contents](#-contents)
+- [Objectives](#-objectives)
 - [Usage](#-usage)
 - [License](#-license)
 
@@ -20,19 +19,21 @@
 
 ## 📖 Overview
 
-This repository is an [Obsidian](https://obsidian.md/) vault used as a personal reference — quick command snippets and step-by-step notes I don't want to look up from scratch every time.
+Prototype is my experimental repository where I build small, focused implementations to understand frameworks, architecture patterns, and production engineering practices.
 
-It's not a tutorial or a polished guide; it's a working notebook that grows as new commands and tricks come up.
+Rather than creating tutorial projects, this repository is dedicated to exploring how things work, why they work, and when they should be used.
+
+Every experiment is isolated, documented, and designed to be reusable in future production projects.
 
 ---
 
-## 📂 Contents
+## 📂 Objectives
 
-| File | Description |
-|---|---|
-| [`Adb Commands.md`](./Adb%20Commands.md) | Android Debug Bridge (ADB) command reference |
-| [`Flutter Commands.md`](./Flutter%20Commands.md) | Common Flutter CLI commands (project creation, platform targeting, etc.) |
-| [`Powershell Commands.md`](./Powershell%20Commands.md) | Windows PowerShell tips, including startup/launcher configuration |
+- Explore new technologies through hands-on implementation.
+- Validate architectural decisions before production use.
+- Compare different approaches to solving the same problem.
+- Build a personal engineering knowledge base.
+- Document learnings, trade-offs, and best practices.
 
 ---
 
@@ -41,10 +42,8 @@ It's not a tutorial or a polished guide; it's a working notebook that grows as n
 Clone the repo and open it as a vault in Obsidian for the best experience (internal links, search, and graph view):
 
 ```bash
-git clone https://github.com/flexsinfs2139-cpu/FS2139.git
+git clone https://github.com/flexsinfs2139-cpu/prototype.git
 ```
-
-Or just browse the `.md` files directly on GitHub — they're plain Markdown and readable anywhere.
 
 ---
 
